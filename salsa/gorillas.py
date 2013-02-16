@@ -1,0 +1,1 @@
+print 'oooooOOOOooh ooooh aaahHh'
